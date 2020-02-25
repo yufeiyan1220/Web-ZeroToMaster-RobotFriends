@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Web-ZeroToMaster-RobotFriends/static/css/main.0c9aae8f.chunk.css",
+    "main.js": "/Web-ZeroToMaster-RobotFriends/static/js/main.74b22704.chunk.js",
+    "main.js.map": "/Web-ZeroToMaster-RobotFriends/static/js/main.74b22704.chunk.js.map",
+    "runtime-main.js": "/Web-ZeroToMaster-RobotFriends/static/js/runtime-main.cda8e0a8.js",
+    "runtime-main.js.map": "/Web-ZeroToMaster-RobotFriends/static/js/runtime-main.cda8e0a8.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Web-ZeroToMaster-RobotFriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4196f117.chunk.js": "/Web-ZeroToMaster-RobotFriends/static/js/2.4196f117.chunk.js",
+    "static/js/2.4196f117.chunk.js.map": "/Web-ZeroToMaster-RobotFriends/static/js/2.4196f117.chunk.js.map",
+    "index.html": "/Web-ZeroToMaster-RobotFriends/index.html",
+    "precache-manifest.64e819408769936618f782139672d7bb.js": "/Web-ZeroToMaster-RobotFriends/precache-manifest.64e819408769936618f782139672d7bb.js",
+    "service-worker.js": "/Web-ZeroToMaster-RobotFriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Web-ZeroToMaster-RobotFriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.0c9aae8f.chunk.css.map": "/Web-ZeroToMaster-RobotFriends/static/css/main.0c9aae8f.chunk.css.map",
+    "static/js/2.4196f117.chunk.js.LICENSE.txt": "/Web-ZeroToMaster-RobotFriends/static/js/2.4196f117.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Web-ZeroToMaster-RobotFriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda8e0a8.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4196f117.chunk.js",
+    "static/css/main.0c9aae8f.chunk.css",
+    "static/js/main.74b22704.chunk.js"
+  ]
+}
